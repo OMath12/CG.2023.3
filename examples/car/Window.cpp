@@ -58,10 +58,10 @@ void Window::handleEvents() {
 
 void Window::render() {
     // Limpe o buffer, renderize o carro e atualize a tela
+    glClearColor(0.68f, 0.85f, 0.9f, 1.0f);
     glClear(GL_COLOR_BUFFER_BIT);
+    background.render();
     car.render();
-   SDL_GL_SwapWindow(sdlWindow);
-
-
+    SDL_GL_SwapWindow(sdlWindow);
 }
 
