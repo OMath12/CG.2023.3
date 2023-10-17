@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgApplication.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgApplication.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgApplication.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgTimer.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgTimer.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgTimer.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgException.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgException.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgException.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgImage.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgImage.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgImage.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgTrackball.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgTrackball.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgTrackball.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgWindow.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgWindow.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgWindow.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgUtil.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgUtil.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgUtil.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLError.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLError.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLError.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLFunction.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLFunction.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLImage.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLImage.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLImage.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLShader.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLShader.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLWindow.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLWindow.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLWindow.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/imgui",
+  "command": "/usr/bin/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -g -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/imgui",
+  "command": "/usr/bin/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -g -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_demo.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/imgui",
+  "command": "/usr/bin/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -g -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_draw.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/imgui",
+  "command": "/usr/bin/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -g -o CMakeFiles/imgui.dir/imgui_tables.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_tables.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/imgui",
+  "command": "/usr/bin/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -g -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_widgets.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/imgui",
+  "command": "/usr/bin/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -g -o CMakeFiles/imgui.dir/imgui_impl_sdl2.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_impl_sdl2.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_impl_sdl2.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/imgui",
+  "command": "/usr/bin/g++  -I/opt/local/include -I/usr/include/SDL2 -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -g -o CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/fmt",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -g -std=gnu++20 -o CMakeFiles/fmt.dir/format.cc.o -c /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt/format.cc",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt/format.cc"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/examples/car",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -Wall -Wextra -pedantic -std=gnu++20 -o CMakeFiles/car.dir/main.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/examples/car/main.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/examples/car/main.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/examples/car",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -Wall -Wextra -pedantic -std=gnu++20 -o CMakeFiles/car.dir/Window.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Window.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/examples/car/Window.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/examples/car",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -Wall -Wextra -pedantic -std=gnu++20 -o CMakeFiles/car.dir/Car.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Car.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/examples/car/Car.cpp"
+},
+{
+  "directory": "/home/sonic/Documentos/UFABC/CG/abcg/build/examples/car",
+  "command": "/usr/bin/g++  -I/home/sonic/Documentos/UFABC/CG/abcg/abcg -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/.. -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui -isystem /usr/include/SDL2 -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external -isystem /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader -g -Wall -Wextra -pedantic -std=gnu++20 -o CMakeFiles/car.dir/Back.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Back.cpp",
+  "file": "/home/sonic/Documentos/UFABC/CG/abcg/examples/car/Back.cpp"
+}
+]
