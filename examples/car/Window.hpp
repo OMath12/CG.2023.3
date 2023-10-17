@@ -4,6 +4,8 @@
 #include "abcgOpenGL.hpp"
 #include <SDL_opengl.h>
 
+#include "Back.hpp"
+
 
 class Window {
 public:
@@ -20,6 +22,8 @@ public:
     SDL_Window* sdlWindow;
     SDL_GLContext glContext;
     bool quit;
+
+    Back background;
 
 };
 
