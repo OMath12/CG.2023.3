@@ -27,6 +27,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/sonic/Documentos/UFABC/CG/abcg/cmake/Warnings.cmake"
   "/home/sonic/Documentos/UFABC/CG/abcg/examples/CMakeLists.txt"
   "/home/sonic/Documentos/UFABC/CG/abcg/examples/car/CMakeLists.txt"
+<<<<<<< HEAD
   "/usr/share/cmake-3.25/Modules/CMakeCCompiler.cmake.in"
   "/usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c"
   "/usr/share/cmake-3.25/Modules/CMakeCInformation.cmake"
@@ -115,14 +116,34 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-3.25/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake"
   "/usr/share/cmake-3.25/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
   "/usr/share/cmake-3.25/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake"
+=======
+  "/usr/share/cmake-3.25/Modules/CMakeCInformation.cmake"
+  "/usr/share/cmake-3.25/Modules/CMakeCXXInformation.cmake"
+  "/usr/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
+  "/usr/share/cmake-3.25/Modules/CMakeGenericSystem.cmake"
+  "/usr/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake"
+  "/usr/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
+  "/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake"
+  "/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake"
+  "/usr/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+  "/usr/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+  "/usr/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+  "/usr/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+  "/usr/share/cmake-3.25/Modules/Compiler/GNU-C.cmake"
+  "/usr/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake"
+  "/usr/share/cmake-3.25/Modules/Compiler/GNU.cmake"
+>>>>>>> reorganizacao
   "/usr/share/cmake-3.25/Modules/FindGLEW.cmake"
   "/usr/share/cmake-3.25/Modules/FindOpenGL.cmake"
   "/usr/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
   "/usr/share/cmake-3.25/Modules/FindPackageMessage.cmake"
   "/usr/share/cmake-3.25/Modules/FindThreads.cmake"
   "/usr/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake"
+<<<<<<< HEAD
   "/usr/share/cmake-3.25/Modules/Internal/FeatureTesting.cmake"
   "/usr/share/cmake-3.25/Modules/Platform/Linux-Determine-CXX.cmake"
+=======
+>>>>>>> reorganizacao
   "/usr/share/cmake-3.25/Modules/Platform/Linux-GNU-C.cmake"
   "/usr/share/cmake-3.25/Modules/Platform/Linux-GNU-CXX.cmake"
   "/usr/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake"
@@ -139,11 +160,14 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+<<<<<<< HEAD
   "CMakeFiles/3.25.1/CMakeSystem.cmake"
   "CMakeFiles/3.25.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeCXXCompiler.cmake"
+=======
+>>>>>>> reorganizacao
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "abcg/CMakeFiles/CMakeDirectoryInformation.cmake"
   "abcg/external/CMakeFiles/CMakeDirectoryInformation.cmake"

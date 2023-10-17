@@ -14,8 +14,7 @@ int main(int argc, char* args[]) {
 
     // render do background
     Back background;
-    //
-
+    
     // Loop principal
     while (!window.shouldQuit()) {
         window.handleEvents();

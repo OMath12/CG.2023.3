@@ -12,6 +12,7 @@ public:
 private:
     std::vector<glm::vec2> cloud1;
     std::vector<glm::vec2> cloud2;
+    std::vector<glm::vec2> cloud3;
     glm::vec2 sunPosition;
 
     void initializeClouds();
