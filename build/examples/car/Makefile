@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sonic/Documentos/UFABC/CG/abcg
+CMAKE_SOURCE_DIR = /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sonic/Documentos/UFABC/CG/abcg/build
+CMAKE_BINARY_DIR = /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,14 +87,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car//CMakeFiles/progress.marks
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 0
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car//CMakeFiles/progress.marks
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/clean
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/clean
 .PHONY : clean
 
 # The main clean target
@@ -103,22 +103,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/preinstall
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/preinstall
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 examples/car/CMakeFiles/car.dir/rule:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/CMakeFiles/car.dir/rule
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/CMakeFiles/car.dir/rule
 .PHONY : examples/car/CMakeFiles/car.dir/rule
 
 # Convenience name for target.
@@ -127,7 +127,7 @@ car: examples/car/CMakeFiles/car.dir/rule
 
 # fast build rule for target.
 car/fast:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/build
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/build
 .PHONY : car/fast
 
 Back.o: Back.cpp.o
@@ -135,7 +135,7 @@ Back.o: Back.cpp.o
 
 # target to build an object file
 Back.cpp.o:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Back.cpp.o
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Back.cpp.o
 .PHONY : Back.cpp.o
 
 Back.i: Back.cpp.i
@@ -143,7 +143,7 @@ Back.i: Back.cpp.i
 
 # target to preprocess a source file
 Back.cpp.i:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Back.cpp.i
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Back.cpp.i
 .PHONY : Back.cpp.i
 
 Back.s: Back.cpp.s
@@ -151,7 +151,7 @@ Back.s: Back.cpp.s
 
 # target to generate assembly for a file
 Back.cpp.s:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Back.cpp.s
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Back.cpp.s
 .PHONY : Back.cpp.s
 
 Car.o: Car.cpp.o
@@ -159,7 +159,7 @@ Car.o: Car.cpp.o
 
 # target to build an object file
 Car.cpp.o:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Car.cpp.o
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Car.cpp.o
 .PHONY : Car.cpp.o
 
 Car.i: Car.cpp.i
@@ -167,7 +167,7 @@ Car.i: Car.cpp.i
 
 # target to preprocess a source file
 Car.cpp.i:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Car.cpp.i
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Car.cpp.i
 .PHONY : Car.cpp.i
 
 Car.s: Car.cpp.s
@@ -175,7 +175,7 @@ Car.s: Car.cpp.s
 
 # target to generate assembly for a file
 Car.cpp.s:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Car.cpp.s
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Car.cpp.s
 .PHONY : Car.cpp.s
 
 Window.o: Window.cpp.o
@@ -183,7 +183,7 @@ Window.o: Window.cpp.o
 
 # target to build an object file
 Window.cpp.o:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Window.cpp.o
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Window.cpp.o
 .PHONY : Window.cpp.o
 
 Window.i: Window.cpp.i
@@ -191,7 +191,7 @@ Window.i: Window.cpp.i
 
 # target to preprocess a source file
 Window.cpp.i:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Window.cpp.i
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Window.cpp.i
 .PHONY : Window.cpp.i
 
 Window.s: Window.cpp.s
@@ -199,7 +199,7 @@ Window.s: Window.cpp.s
 
 # target to generate assembly for a file
 Window.cpp.s:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Window.cpp.s
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/Window.cpp.s
 .PHONY : Window.cpp.s
 
 main.o: main.cpp.o
@@ -207,7 +207,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/main.cpp.o
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -215,7 +215,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/main.cpp.i
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -223,7 +223,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/main.cpp.s
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -258,6 +258,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

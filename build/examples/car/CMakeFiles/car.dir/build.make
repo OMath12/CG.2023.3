@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sonic/Documentos/UFABC/CG/abcg
+CMAKE_SOURCE_DIR = /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sonic/Documentos/UFABC/CG/abcg/build
+CMAKE_BINARY_DIR = /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build
 
 # Include any dependencies generated for this target.
 include examples/car/CMakeFiles/car.dir/depend.make
@@ -70,60 +70,60 @@ include examples/car/CMakeFiles/car.dir/progress.make
 include examples/car/CMakeFiles/car.dir/flags.make
 
 examples/car/CMakeFiles/car.dir/main.cpp.o: examples/car/CMakeFiles/car.dir/flags.make
-examples/car/CMakeFiles/car.dir/main.cpp.o: /home/sonic/Documentos/UFABC/CG/abcg/examples/car/main.cpp
+examples/car/CMakeFiles/car.dir/main.cpp.o: /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/main.cpp
 examples/car/CMakeFiles/car.dir/main.cpp.o: examples/car/CMakeFiles/car.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/car/CMakeFiles/car.dir/main.cpp.o"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/car/CMakeFiles/car.dir/main.cpp.o -MF CMakeFiles/car.dir/main.cpp.o.d -o CMakeFiles/car.dir/main.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/examples/car/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/car/CMakeFiles/car.dir/main.cpp.o"
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/car/CMakeFiles/car.dir/main.cpp.o -MF CMakeFiles/car.dir/main.cpp.o.d -o CMakeFiles/car.dir/main.cpp.o -c /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/main.cpp
 
 examples/car/CMakeFiles/car.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/car.dir/main.cpp.i"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sonic/Documentos/UFABC/CG/abcg/examples/car/main.cpp > CMakeFiles/car.dir/main.cpp.i
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/main.cpp > CMakeFiles/car.dir/main.cpp.i
 
 examples/car/CMakeFiles/car.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/car.dir/main.cpp.s"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sonic/Documentos/UFABC/CG/abcg/examples/car/main.cpp -o CMakeFiles/car.dir/main.cpp.s
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/main.cpp -o CMakeFiles/car.dir/main.cpp.s
 
 examples/car/CMakeFiles/car.dir/Window.cpp.o: examples/car/CMakeFiles/car.dir/flags.make
-examples/car/CMakeFiles/car.dir/Window.cpp.o: /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Window.cpp
+examples/car/CMakeFiles/car.dir/Window.cpp.o: /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Window.cpp
 examples/car/CMakeFiles/car.dir/Window.cpp.o: examples/car/CMakeFiles/car.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object examples/car/CMakeFiles/car.dir/Window.cpp.o"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/car/CMakeFiles/car.dir/Window.cpp.o -MF CMakeFiles/car.dir/Window.cpp.o.d -o CMakeFiles/car.dir/Window.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Window.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object examples/car/CMakeFiles/car.dir/Window.cpp.o"
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/car/CMakeFiles/car.dir/Window.cpp.o -MF CMakeFiles/car.dir/Window.cpp.o.d -o CMakeFiles/car.dir/Window.cpp.o -c /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Window.cpp
 
 examples/car/CMakeFiles/car.dir/Window.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/car.dir/Window.cpp.i"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Window.cpp > CMakeFiles/car.dir/Window.cpp.i
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Window.cpp > CMakeFiles/car.dir/Window.cpp.i
 
 examples/car/CMakeFiles/car.dir/Window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/car.dir/Window.cpp.s"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Window.cpp -o CMakeFiles/car.dir/Window.cpp.s
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Window.cpp -o CMakeFiles/car.dir/Window.cpp.s
 
 examples/car/CMakeFiles/car.dir/Car.cpp.o: examples/car/CMakeFiles/car.dir/flags.make
-examples/car/CMakeFiles/car.dir/Car.cpp.o: /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Car.cpp
+examples/car/CMakeFiles/car.dir/Car.cpp.o: /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Car.cpp
 examples/car/CMakeFiles/car.dir/Car.cpp.o: examples/car/CMakeFiles/car.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object examples/car/CMakeFiles/car.dir/Car.cpp.o"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/car/CMakeFiles/car.dir/Car.cpp.o -MF CMakeFiles/car.dir/Car.cpp.o.d -o CMakeFiles/car.dir/Car.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Car.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object examples/car/CMakeFiles/car.dir/Car.cpp.o"
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/car/CMakeFiles/car.dir/Car.cpp.o -MF CMakeFiles/car.dir/Car.cpp.o.d -o CMakeFiles/car.dir/Car.cpp.o -c /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Car.cpp
 
 examples/car/CMakeFiles/car.dir/Car.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/car.dir/Car.cpp.i"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Car.cpp > CMakeFiles/car.dir/Car.cpp.i
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Car.cpp > CMakeFiles/car.dir/Car.cpp.i
 
 examples/car/CMakeFiles/car.dir/Car.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/car.dir/Car.cpp.s"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Car.cpp -o CMakeFiles/car.dir/Car.cpp.s
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Car.cpp -o CMakeFiles/car.dir/Car.cpp.s
 
 examples/car/CMakeFiles/car.dir/Back.cpp.o: examples/car/CMakeFiles/car.dir/flags.make
-examples/car/CMakeFiles/car.dir/Back.cpp.o: /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Back.cpp
+examples/car/CMakeFiles/car.dir/Back.cpp.o: /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Back.cpp
 examples/car/CMakeFiles/car.dir/Back.cpp.o: examples/car/CMakeFiles/car.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object examples/car/CMakeFiles/car.dir/Back.cpp.o"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/car/CMakeFiles/car.dir/Back.cpp.o -MF CMakeFiles/car.dir/Back.cpp.o.d -o CMakeFiles/car.dir/Back.cpp.o -c /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Back.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object examples/car/CMakeFiles/car.dir/Back.cpp.o"
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/car/CMakeFiles/car.dir/Back.cpp.o -MF CMakeFiles/car.dir/Back.cpp.o.d -o CMakeFiles/car.dir/Back.cpp.o -c /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Back.cpp
 
 examples/car/CMakeFiles/car.dir/Back.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/car.dir/Back.cpp.i"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Back.cpp > CMakeFiles/car.dir/Back.cpp.i
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Back.cpp > CMakeFiles/car.dir/Back.cpp.i
 
 examples/car/CMakeFiles/car.dir/Back.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/car.dir/Back.cpp.s"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sonic/Documentos/UFABC/CG/abcg/examples/car/Back.cpp -o CMakeFiles/car.dir/Back.cpp.s
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/Back.cpp -o CMakeFiles/car.dir/Back.cpp.s
 
 # Object files for target car
 car_OBJECTS = \
@@ -150,24 +150,24 @@ bin/car: /usr/lib/x86_64-linux-gnu/libSDL2main.a
 bin/car: /usr/lib/x86_64-linux-gnu/libSDL2.so
 bin/car: /usr/lib/x86_64-linux-gnu/libSDL2_image.so
 bin/car: examples/car/CMakeFiles/car.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../../bin/car"
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/cmake -E remove_directory /home/sonic/Documentos/UFABC/CG/abcg/build/bin/car
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/car.dir/link.txt --verbose=$(VERBOSE)
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/cmake -E make_directory /home/sonic/Documentos/UFABC/CG/abcg/build/bin/car.dir
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/cmake -E copy /home/sonic/Documentos/UFABC/CG/abcg/build/bin/car /home/sonic/Documentos/UFABC/CG/abcg/build/bin/car.dir/car
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/cmake -E remove /home/sonic/Documentos/UFABC/CG/abcg/build/bin/car
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/cmake -E rename /home/sonic/Documentos/UFABC/CG/abcg/build/bin/car.dir /home/sonic/Documentos/UFABC/CG/abcg/build/bin/car
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && /usr/bin/cmake -E rm -rf /home/sonic/Documentos/UFABC/CG/abcg/build/bin/car.dir
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../../bin/car"
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/cmake -E remove_directory /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/bin/car
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/car.dir/link.txt --verbose=$(VERBOSE)
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/cmake -E make_directory /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/bin/car.dir
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/cmake -E copy /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/bin/car /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/bin/car.dir/car
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/cmake -E remove /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/bin/car
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/cmake -E rename /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/bin/car.dir /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/bin/car
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && /usr/bin/cmake -E rm -rf /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/bin/car.dir
 
 # Rule to build all files generated by this target.
 examples/car/CMakeFiles/car.dir/build: bin/car
 .PHONY : examples/car/CMakeFiles/car.dir/build
 
 examples/car/CMakeFiles/car.dir/clean:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car && $(CMAKE_COMMAND) -P CMakeFiles/car.dir/cmake_clean.cmake
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car && $(CMAKE_COMMAND) -P CMakeFiles/car.dir/cmake_clean.cmake
 .PHONY : examples/car/CMakeFiles/car.dir/clean
 
 examples/car/CMakeFiles/car.dir/depend:
-	cd /home/sonic/Documentos/UFABC/CG/abcg/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sonic/Documentos/UFABC/CG/abcg /home/sonic/Documentos/UFABC/CG/abcg/examples/car /home/sonic/Documentos/UFABC/CG/abcg/build /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car /home/sonic/Documentos/UFABC/CG/abcg/build/examples/car/CMakeFiles/car.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3 /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car/CMakeFiles/car.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : examples/car/CMakeFiles/car.dir/depend
 

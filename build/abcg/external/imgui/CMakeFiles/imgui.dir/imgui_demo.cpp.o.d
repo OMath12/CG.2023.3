@@ -1,8 +1,8 @@
 abcg/external/imgui/CMakeFiles/imgui.dir/imgui_demo.cpp.o: \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_demo.cpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imgui_demo.cpp \
  /usr/include/stdc-predef.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imconfig.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imgui.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imconfig.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/float.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h /usr/include/string.h \

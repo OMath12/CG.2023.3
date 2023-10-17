@@ -1,7 +1,7 @@
 abcg/CMakeFiles/abcg.dir/abcgException.cpp.o: \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgException.cpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgException.cpp \
  /usr/include/stdc-predef.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgException.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgException.hpp \
  /usr/include/c++/12/source_location \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \
@@ -124,7 +124,7 @@ abcg/CMakeFiles/abcg.dir/abcgException.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/12/bits/charconv.h \
  /usr/include/c++/12/bits/basic_string.tcc \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgUtil.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgUtil.hpp \
  /usr/include/c++/12/functional /usr/include/c++/12/tuple \
  /usr/include/c++/12/bits/uses_allocator.h \
  /usr/include/c++/12/bits/std_function.h \

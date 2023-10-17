@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt
+CXX_INCLUDES = -I/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/fmt
 
 CXX_FLAGS = -g -std=gnu++20
 

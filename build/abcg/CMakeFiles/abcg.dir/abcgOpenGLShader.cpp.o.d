@@ -1,8 +1,8 @@
 abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o: \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLShader.cpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLShader.cpp \
  /usr/include/stdc-predef.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLShader.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLExternal.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLShader.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLExternal.hpp \
  /usr/include/GL/glew.h /usr/include/c++/12/cstddef \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \
@@ -26,7 +26,7 @@ abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h /usr/include/GL/glu.h \
  /usr/include/GL/gl.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgShader.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgShader.hpp \
  /usr/include/c++/12/optional /usr/include/c++/12/type_traits \
  /usr/include/c++/12/exception /usr/include/c++/12/bits/exception.h \
  /usr/include/c++/12/bits/exception_ptr.h \
@@ -132,9 +132,9 @@ abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o: \
  /usr/include/c++/12/bits/stl_vector.h \
  /usr/include/c++/12/bits/stl_bvector.h \
  /usr/include/c++/12/bits/vector.tcc \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/itertools.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/accumulate.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/internal/iterator_wrapper.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/itertools.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/accumulate.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/internal/iterator_wrapper.hpp \
  /usr/include/c++/12/cassert /usr/include/assert.h \
  /usr/include/c++/12/functional /usr/include/c++/12/tuple \
  /usr/include/c++/12/bits/uses_allocator.h \
@@ -152,7 +152,7 @@ abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o: \
  /usr/include/c++/12/bits/stl_tempbuf.h \
  /usr/include/c++/12/bits/uniform_int_dist.h /usr/include/c++/12/variant \
  /usr/include/c++/12/bits/parse_numbers.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/internal/iterbase.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/internal/iterbase.hpp \
  /usr/include/c++/12/iterator /usr/include/c++/12/bits/stream_iterator.h \
  /usr/include/c++/12/bits/streambuf_iterator.h \
  /usr/include/c++/12/streambuf /usr/include/c++/12/bits/ios_base.h \
@@ -178,9 +178,9 @@ abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/12/bits/error_constants.h \
  /usr/include/c++/12/stdexcept /usr/include/c++/12/bits/streambuf.tcc \
  /usr/include/c++/12/utility /usr/include/c++/12/bits/stl_relops.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/internal/iterbase.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/batched.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/internal/iteratoriterator.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/internal/iterbase.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/batched.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/internal/iteratoriterator.hpp \
  /usr/include/c++/12/algorithm /usr/include/c++/12/bits/ranges_algo.h \
  /usr/include/c++/12/bits/ranges_algobase.h \
  /usr/include/c++/12/bits/ranges_util.h \
@@ -229,54 +229,54 @@ abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o: \
  /usr/include/c++/12/bits/ranges_uninitialized.h \
  /usr/include/c++/12/bits/uses_allocator_args.h \
  /usr/include/c++/12/pstl/glue_memory_defs.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/chain.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/internal/iter_tuples.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/internal/iterator_wrapper.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/chunked.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/combinations.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/combinations_with_replacement.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/compress.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/count.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/range.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/chain.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/internal/iter_tuples.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/internal/iterator_wrapper.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/chunked.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/combinations.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/combinations_with_replacement.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/compress.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/count.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/range.hpp \
  /usr/include/c++/12/limits \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/cycle.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/dropwhile.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/filter.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/enumerate.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/filterfalse.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/groupby.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/imap.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/starmap.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/zip.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/permutations.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/powerset.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/product.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/repeat.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/reversed.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/slice.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/sliding_window.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/cycle.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/dropwhile.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/filter.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/enumerate.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/filterfalse.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/groupby.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/imap.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/starmap.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/zip.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/permutations.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/powerset.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/product.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/repeat.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/reversed.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/slice.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/sliding_window.hpp \
  /usr/include/c++/12/deque /usr/include/c++/12/bits/stl_deque.h \
  /usr/include/c++/12/bits/deque.tcc \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/sorted.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/takewhile.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/unique_everseen.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/sorted.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/takewhile.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/unique_everseen.hpp \
  /usr/include/c++/12/unordered_set \
  /usr/include/c++/12/bits/unordered_set.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/unique_justseen.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt/core.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/unique_justseen.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/fmt/core.h \
  /usr/include/c++/12/cstring /usr/include/string.h /usr/include/strings.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/gsl \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/gsl_algorithm \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/gsl_assert \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/span \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/gsl_byte \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/gsl_util \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/multi_span \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/gsl \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/gsl_algorithm \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/gsl_assert \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/span \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/gsl_byte \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/gsl_util \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/multi_span \
  /usr/include/c++/12/numeric /usr/include/c++/12/bits/stl_numeric.h \
  /usr/include/c++/12/pstl/glue_numeric_defs.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/pointers \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/string_span \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/span_ext \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/pointers \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/string_span \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/span_ext \
  /usr/include/c++/12/filesystem /usr/include/c++/12/bits/fs_fwd.h \
  /usr/include/c++/12/bits/chrono.h /usr/include/c++/12/ratio \
  /usr/include/c++/12/ctime /usr/include/c++/12/bits/fs_path.h \
@@ -295,5 +295,5 @@ abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/12/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++io.h \
  /usr/include/c++/12/bits/fstream.tcc \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgException.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgException.hpp \
  /usr/include/c++/12/source_location

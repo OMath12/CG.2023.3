@@ -8,24 +8,24 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgApplication.cpp" "abcg/CMakeFiles/abcg.dir/abcgApplication.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgApplication.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgException.cpp" "abcg/CMakeFiles/abcg.dir/abcgException.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgException.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgImage.cpp" "abcg/CMakeFiles/abcg.dir/abcgImage.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgImage.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLError.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLError.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLError.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLFunction.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLImage.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLImage.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLImage.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLShader.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLWindow.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLWindow.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLWindow.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgTimer.cpp" "abcg/CMakeFiles/abcg.dir/abcgTimer.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgTimer.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgTrackball.cpp" "abcg/CMakeFiles/abcg.dir/abcgTrackball.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgTrackball.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgUtil.cpp" "abcg/CMakeFiles/abcg.dir/abcgUtil.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgUtil.cpp.o.d"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgWindow.cpp" "abcg/CMakeFiles/abcg.dir/abcgWindow.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgWindow.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgApplication.cpp" "abcg/CMakeFiles/abcg.dir/abcgApplication.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgApplication.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgException.cpp" "abcg/CMakeFiles/abcg.dir/abcgException.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgException.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgImage.cpp" "abcg/CMakeFiles/abcg.dir/abcgImage.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgImage.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLError.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLError.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLError.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLFunction.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLImage.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLImage.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLImage.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLShader.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLWindow.cpp" "abcg/CMakeFiles/abcg.dir/abcgOpenGLWindow.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgOpenGLWindow.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgTimer.cpp" "abcg/CMakeFiles/abcg.dir/abcgTimer.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgTimer.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgTrackball.cpp" "abcg/CMakeFiles/abcg.dir/abcgTrackball.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgTrackball.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgUtil.cpp" "abcg/CMakeFiles/abcg.dir/abcgUtil.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgUtil.cpp.o.d"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgWindow.cpp" "abcg/CMakeFiles/abcg.dir/abcgWindow.cpp.o" "gcc" "abcg/CMakeFiles/abcg.dir/abcgWindow.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/fmt/CMakeFiles/fmt.dir/DependInfo.cmake"
-  "/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/imgui/CMakeFiles/imgui.dir/DependInfo.cmake"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/abcg/external/fmt/CMakeFiles/fmt.dir/DependInfo.cmake"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/abcg/external/imgui/CMakeFiles/imgui.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

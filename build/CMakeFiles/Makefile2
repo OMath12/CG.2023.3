@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sonic/Documentos/UFABC/CG/abcg
+CMAKE_SOURCE_DIR = /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sonic/Documentos/UFABC/CG/abcg/build
+CMAKE_BINARY_DIR = /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -218,14 +218,17 @@ abcg/external/tiny_obj_loader/clean:
 # Directory level rules for directory examples
 
 # Recursive "all" directory target.
+examples/all: examples/firstapp/all
 examples/all: examples/car/all
 .PHONY : examples/all
 
 # Recursive "preinstall" directory target.
+examples/preinstall: examples/firstapp/preinstall
 examples/preinstall: examples/car/preinstall
 .PHONY : examples/preinstall
 
 # Recursive "clean" directory target.
+examples/clean: examples/firstapp/clean
 examples/clean: examples/car/clean
 .PHONY : examples/clean
 
@@ -245,6 +248,21 @@ examples/car/clean: examples/car/CMakeFiles/car.dir/clean
 .PHONY : examples/car/clean
 
 #=============================================================================
+# Directory level rules for directory examples/firstapp
+
+# Recursive "all" directory target.
+examples/firstapp/all: examples/firstapp/CMakeFiles/firstapp.dir/all
+.PHONY : examples/firstapp/all
+
+# Recursive "preinstall" directory target.
+examples/firstapp/preinstall:
+.PHONY : examples/firstapp/preinstall
+
+# Recursive "clean" directory target.
+examples/firstapp/clean: examples/firstapp/CMakeFiles/firstapp.dir/clean
+.PHONY : examples/firstapp/clean
+
+#=============================================================================
 # Target rules for target abcg/CMakeFiles/abcg.dir
 
 # All Build rule for target.
@@ -252,14 +270,14 @@ abcg/CMakeFiles/abcg.dir/all: abcg/external/imgui/CMakeFiles/imgui.dir/all
 abcg/CMakeFiles/abcg.dir/all: abcg/external/fmt/CMakeFiles/fmt.dir/all
 	$(MAKE) $(MAKESILENT) -f abcg/CMakeFiles/abcg.dir/build.make abcg/CMakeFiles/abcg.dir/depend
 	$(MAKE) $(MAKESILENT) -f abcg/CMakeFiles/abcg.dir/build.make abcg/CMakeFiles/abcg.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13 "Built target abcg"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13 "Built target abcg"
 .PHONY : abcg/CMakeFiles/abcg.dir/all
 
 # Build rule for subdir invocation for target.
 abcg/CMakeFiles/abcg.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 23
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 23
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 abcg/CMakeFiles/abcg.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 0
 .PHONY : abcg/CMakeFiles/abcg.dir/rule
 
 # Convenience name for target.
@@ -278,14 +296,14 @@ abcg/CMakeFiles/abcg.dir/clean:
 abcg/external/imgui/CMakeFiles/imgui.dir/all:
 	$(MAKE) $(MAKESILENT) -f abcg/external/imgui/CMakeFiles/imgui.dir/build.make abcg/external/imgui/CMakeFiles/imgui.dir/depend
 	$(MAKE) $(MAKESILENT) -f abcg/external/imgui/CMakeFiles/imgui.dir/build.make abcg/external/imgui/CMakeFiles/imgui.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles --progress-num=21,22,23,24,25,26,27,28 "Built target imgui"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=24,25,26,27,28,29,30,31 "Built target imgui"
 .PHONY : abcg/external/imgui/CMakeFiles/imgui.dir/all
 
 # Build rule for subdir invocation for target.
 abcg/external/imgui/CMakeFiles/imgui.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 abcg/external/imgui/CMakeFiles/imgui.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 0
 .PHONY : abcg/external/imgui/CMakeFiles/imgui.dir/rule
 
 # Convenience name for target.
@@ -304,14 +322,14 @@ abcg/external/imgui/CMakeFiles/imgui.dir/clean:
 abcg/external/fmt/CMakeFiles/fmt.dir/all:
 	$(MAKE) $(MAKESILENT) -f abcg/external/fmt/CMakeFiles/fmt.dir/build.make abcg/external/fmt/CMakeFiles/fmt.dir/depend
 	$(MAKE) $(MAKESILENT) -f abcg/external/fmt/CMakeFiles/fmt.dir/build.make abcg/external/fmt/CMakeFiles/fmt.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles --progress-num=19,20 "Built target fmt"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=22,23 "Built target fmt"
 .PHONY : abcg/external/fmt/CMakeFiles/fmt.dir/all
 
 # Build rule for subdir invocation for target.
 abcg/external/fmt/CMakeFiles/fmt.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 abcg/external/fmt/CMakeFiles/fmt.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 0
 .PHONY : abcg/external/fmt/CMakeFiles/fmt.dir/rule
 
 # Convenience name for target.
@@ -324,6 +342,34 @@ abcg/external/fmt/CMakeFiles/fmt.dir/clean:
 .PHONY : abcg/external/fmt/CMakeFiles/fmt.dir/clean
 
 #=============================================================================
+# Target rules for target examples/firstapp/CMakeFiles/firstapp.dir
+
+# All Build rule for target.
+examples/firstapp/CMakeFiles/firstapp.dir/all: abcg/CMakeFiles/abcg.dir/all
+examples/firstapp/CMakeFiles/firstapp.dir/all: abcg/external/imgui/CMakeFiles/imgui.dir/all
+examples/firstapp/CMakeFiles/firstapp.dir/all: abcg/external/fmt/CMakeFiles/fmt.dir/all
+	$(MAKE) $(MAKESILENT) -f examples/firstapp/CMakeFiles/firstapp.dir/build.make examples/firstapp/CMakeFiles/firstapp.dir/depend
+	$(MAKE) $(MAKESILENT) -f examples/firstapp/CMakeFiles/firstapp.dir/build.make examples/firstapp/CMakeFiles/firstapp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=19,20,21 "Built target firstapp"
+.PHONY : examples/firstapp/CMakeFiles/firstapp.dir/all
+
+# Build rule for subdir invocation for target.
+examples/firstapp/CMakeFiles/firstapp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 26
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/firstapp/CMakeFiles/firstapp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 0
+.PHONY : examples/firstapp/CMakeFiles/firstapp.dir/rule
+
+# Convenience name for target.
+firstapp: examples/firstapp/CMakeFiles/firstapp.dir/rule
+.PHONY : firstapp
+
+# clean rule for target.
+examples/firstapp/CMakeFiles/firstapp.dir/clean:
+	$(MAKE) $(MAKESILENT) -f examples/firstapp/CMakeFiles/firstapp.dir/build.make examples/firstapp/CMakeFiles/firstapp.dir/clean
+.PHONY : examples/firstapp/CMakeFiles/firstapp.dir/clean
+
+#=============================================================================
 # Target rules for target examples/car/CMakeFiles/car.dir
 
 # All Build rule for target.
@@ -332,14 +378,14 @@ examples/car/CMakeFiles/car.dir/all: abcg/external/imgui/CMakeFiles/imgui.dir/al
 examples/car/CMakeFiles/car.dir/all: abcg/external/fmt/CMakeFiles/fmt.dir/all
 	$(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/depend
 	$(MAKE) $(MAKESILENT) -f examples/car/CMakeFiles/car.dir/build.make examples/car/CMakeFiles/car.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles --progress-num=14,15,16,17,18 "Built target car"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles --progress-num=14,15,16,17,18 "Built target car"
 .PHONY : examples/car/CMakeFiles/car.dir/all
 
 # Build rule for subdir invocation for target.
 examples/car/CMakeFiles/car.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 28
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 28
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 examples/car/CMakeFiles/car.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 0
 .PHONY : examples/car/CMakeFiles/car.dir/rule
 
 # Convenience name for target.

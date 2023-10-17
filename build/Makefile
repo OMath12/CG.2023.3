@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sonic/Documentos/UFABC/CG/abcg
+CMAKE_SOURCE_DIR = /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sonic/Documentos/UFABC/CG/abcg/build
+CMAKE_BINARY_DIR = /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles /home/sonic/Documentos/UFABC/CG/abcg/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/abcg/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -156,6 +156,19 @@ fmt/fast:
 .PHONY : fmt/fast
 
 #=============================================================================
+# Target rules for targets named firstapp
+
+# Build rule for target.
+firstapp: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 firstapp
+.PHONY : firstapp
+
+# fast build rule for target.
+firstapp/fast:
+	$(MAKE) $(MAKESILENT) -f examples/firstapp/CMakeFiles/firstapp.dir/build.make examples/firstapp/CMakeFiles/firstapp.dir/build
+.PHONY : firstapp/fast
+
+#=============================================================================
 # Target rules for targets named car
 
 # Build rule for target.
@@ -178,6 +191,7 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... abcg"
 	@echo "... car"
+	@echo "... firstapp"
 	@echo "... fmt"
 	@echo "... imgui"
 .PHONY : help

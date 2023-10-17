@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/opt/local/include -I/usr/include/SDL2 -I/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui
+CXX_INCLUDES = -I/opt/local/include -I/usr/include/SDL2 -I/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui
 
 CXX_FLAGS = -g
 

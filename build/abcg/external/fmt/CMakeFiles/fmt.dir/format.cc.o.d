@@ -1,7 +1,7 @@
 abcg/external/fmt/CMakeFiles/fmt.dir/format.cc.o: \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt/format.cc \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/fmt/format.cc \
  /usr/include/stdc-predef.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt/format-inl.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/fmt/format-inl.h \
  /usr/include/c++/12/algorithm /usr/include/c++/12/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \
@@ -195,7 +195,7 @@ abcg/external/fmt/CMakeFiles/fmt.dir/format.cc.o: \
  /usr/include/libintl.h /usr/include/c++/12/bits/codecvt.h \
  /usr/include/c++/12/bits/locale_facets_nonio.tcc \
  /usr/include/c++/12/bits/locale_conv.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt/format.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/fmt/format.h \
  /usr/include/c++/12/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/c++/12/memory /usr/include/c++/12/bits/stl_uninitialized.h \
  /usr/include/c++/12/bits/stl_raw_storage_iter.h \
@@ -231,6 +231,6 @@ abcg/external/fmt/CMakeFiles/fmt.dir/format.cc.o: \
  /usr/include/c++/12/bits/ranges_uninitialized.h \
  /usr/include/c++/12/bits/uses_allocator_args.h \
  /usr/include/c++/12/pstl/glue_memory_defs.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt/core.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/fmt/core.h \
  /usr/include/c++/12/cstddef /usr/include/c++/12/iterator \
  /usr/include/c++/12/bits/stream_iterator.h

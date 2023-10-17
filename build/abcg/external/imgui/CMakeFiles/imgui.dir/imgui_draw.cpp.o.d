@@ -1,8 +1,8 @@
 abcg/external/imgui/CMakeFiles/imgui.dir/imgui_draw.cpp.o: \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_draw.cpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imgui_draw.cpp \
  /usr/include/stdc-predef.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imconfig.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imgui.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imconfig.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/float.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdarg.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h /usr/include/string.h \
@@ -17,7 +17,7 @@ abcg/external/imgui/CMakeFiles/imgui.dir/imgui_draw.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h /usr/include/assert.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imgui_internal.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imgui_internal.h \
  /usr/include/stdio.h /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
  /usr/include/x86_64-linux-gnu/bits/time64.h \
@@ -194,6 +194,6 @@ abcg/external/imgui/CMakeFiles/imgui.dir/imgui_draw.cpp.o: \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/amxbf16intrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/prfchwintrin.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/keylockerintrin.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imstb_textedit.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imstb_rectpack.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/imstb_truetype.h
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imstb_textedit.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imstb_rectpack.h \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/imstb_truetype.h

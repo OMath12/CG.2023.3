@@ -1,4 +1,4 @@
-# Install script for directory: /home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools
+# Install script for directory: /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

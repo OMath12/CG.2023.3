@@ -7,27 +7,27 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/CMakeLists.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/CMakeLists.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/CMakeLists.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/cppitertools/CMakeLists.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/fmt/CMakeLists.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/glm/CMakeLists.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/gsl/CMakeLists.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/imgui/CMakeLists.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/abcg/external/tiny_obj_loader/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/cppitertools/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/fmt/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/glm/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/gsl/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/imgui/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/external/tiny_obj_loader/CMakeLists.txt"
   "CMakeFiles/3.25.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeSystem.cmake"
-  "/home/sonic/Documentos/UFABC/CG/abcg/cmake/ABCg.cmake"
-  "/home/sonic/Documentos/UFABC/CG/abcg/cmake/Common.cmake"
-  "/home/sonic/Documentos/UFABC/CG/abcg/cmake/FindSDL2.cmake"
-  "/home/sonic/Documentos/UFABC/CG/abcg/cmake/FindSDL2_image.cmake"
-  "/home/sonic/Documentos/UFABC/CG/abcg/cmake/Sanitizers.cmake"
-  "/home/sonic/Documentos/UFABC/CG/abcg/cmake/Warnings.cmake"
-  "/home/sonic/Documentos/UFABC/CG/abcg/examples/CMakeLists.txt"
-  "/home/sonic/Documentos/UFABC/CG/abcg/examples/car/CMakeLists.txt"
-<<<<<<< HEAD
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/cmake/ABCg.cmake"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/cmake/Common.cmake"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/cmake/FindSDL2.cmake"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/cmake/FindSDL2_image.cmake"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/cmake/Sanitizers.cmake"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/cmake/Warnings.cmake"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/car/CMakeLists.txt"
+  "/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples/firstapp/CMakeLists.txt"
   "/usr/share/cmake-3.25/Modules/CMakeCCompiler.cmake.in"
   "/usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c"
   "/usr/share/cmake-3.25/Modules/CMakeCInformation.cmake"
@@ -116,34 +116,14 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-3.25/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake"
   "/usr/share/cmake-3.25/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
   "/usr/share/cmake-3.25/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake"
-=======
-  "/usr/share/cmake-3.25/Modules/CMakeCInformation.cmake"
-  "/usr/share/cmake-3.25/Modules/CMakeCXXInformation.cmake"
-  "/usr/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
-  "/usr/share/cmake-3.25/Modules/CMakeGenericSystem.cmake"
-  "/usr/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake"
-  "/usr/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
-  "/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake"
-  "/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake"
-  "/usr/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
-  "/usr/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
-  "/usr/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
-  "/usr/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
-  "/usr/share/cmake-3.25/Modules/Compiler/GNU-C.cmake"
-  "/usr/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake"
-  "/usr/share/cmake-3.25/Modules/Compiler/GNU.cmake"
->>>>>>> reorganizacao
   "/usr/share/cmake-3.25/Modules/FindGLEW.cmake"
   "/usr/share/cmake-3.25/Modules/FindOpenGL.cmake"
   "/usr/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
   "/usr/share/cmake-3.25/Modules/FindPackageMessage.cmake"
   "/usr/share/cmake-3.25/Modules/FindThreads.cmake"
   "/usr/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake"
-<<<<<<< HEAD
   "/usr/share/cmake-3.25/Modules/Internal/FeatureTesting.cmake"
   "/usr/share/cmake-3.25/Modules/Platform/Linux-Determine-CXX.cmake"
-=======
->>>>>>> reorganizacao
   "/usr/share/cmake-3.25/Modules/Platform/Linux-GNU-C.cmake"
   "/usr/share/cmake-3.25/Modules/Platform/Linux-GNU-CXX.cmake"
   "/usr/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake"
@@ -160,14 +140,11 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
-<<<<<<< HEAD
   "CMakeFiles/3.25.1/CMakeSystem.cmake"
   "CMakeFiles/3.25.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeCXXCompiler.cmake"
-=======
->>>>>>> reorganizacao
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "abcg/CMakeFiles/CMakeDirectoryInformation.cmake"
   "abcg/external/CMakeFiles/CMakeDirectoryInformation.cmake"
@@ -178,6 +155,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "abcg/external/glm/CMakeFiles/CMakeDirectoryInformation.cmake"
   "abcg/external/gsl/CMakeFiles/CMakeDirectoryInformation.cmake"
   "examples/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "examples/firstapp/CMakeFiles/CMakeDirectoryInformation.cmake"
   "examples/car/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
@@ -186,5 +164,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "abcg/CMakeFiles/abcg.dir/DependInfo.cmake"
   "abcg/external/imgui/CMakeFiles/imgui.dir/DependInfo.cmake"
   "abcg/external/fmt/CMakeFiles/fmt.dir/DependInfo.cmake"
+  "examples/firstapp/CMakeFiles/firstapp.dir/DependInfo.cmake"
   "examples/car/CMakeFiles/car.dir/DependInfo.cmake"
   )

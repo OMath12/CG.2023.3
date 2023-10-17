@@ -1,4 +1,4 @@
-# Install script for directory: /home/sonic/Documentos/UFABC/CG/abcg/examples
+# Install script for directory: /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/examples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,6 +44,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sonic/Documentos/UFABC/CG/abcg/build/examples/car/cmake_install.cmake")
+  include("/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/firstapp/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/examples/car/cmake_install.cmake")
 endif()
 

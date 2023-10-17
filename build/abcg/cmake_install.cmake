@@ -1,4 +1,4 @@
-# Install script for directory: /home/sonic/Documentos/UFABC/CG/abcg/abcg
+# Install script for directory: /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,6 +44,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sonic/Documentos/UFABC/CG/abcg/build/abcg/external/cmake_install.cmake")
+  include("/home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/build/abcg/external/cmake_install.cmake")
 endif()
 

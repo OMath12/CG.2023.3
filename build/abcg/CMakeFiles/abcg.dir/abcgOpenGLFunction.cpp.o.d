@@ -1,7 +1,7 @@
 abcg/CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o: \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLFunction.cpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLFunction.cpp \
  /usr/include/stdc-predef.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLFunction.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLFunction.hpp \
  /usr/include/c++/12/source_location \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \
@@ -66,11 +66,11 @@ abcg/CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o: \
  /usr/include/c++/12/bits/ranges_base.h \
  /usr/include/c++/12/bits/max_size_type.h /usr/include/c++/12/numbers \
  /usr/include/c++/12/bits/string_view.tcc \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLExternal.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLExternal.hpp \
  /usr/include/GL/glew.h /usr/include/c++/12/cstddef /usr/include/GL/glu.h \
  /usr/include/GL/gl.h \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgOpenGLError.hpp \
- /home/sonic/Documentos/UFABC/CG/abcg/abcg/abcgException.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgOpenGLError.hpp \
+ /home/sonic/Documentos/UFABC/CG/Temp/CG.2023.3/abcg/abcgException.hpp \
  /usr/include/c++/12/stdexcept /usr/include/c++/12/exception \
  /usr/include/c++/12/bits/exception_ptr.h \
  /usr/include/c++/12/bits/cxxabi_init_exception.h \
